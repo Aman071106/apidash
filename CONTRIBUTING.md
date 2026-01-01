@@ -28,7 +28,7 @@ You can contribute to the project in any or all of the following ways:
 - Leaving issues unassigned ensures that work can proceed without bottlenecks if someone goes inactive.
 - Open issues encourage community discussion and brainstorming. Prematurely assigning an issue can stifle input from others who might have better ideas or solutions.
 - As open-source work is often voluntary, and contributors' availability can change. Keeping issues unassigned allows anyone to step in if the original contributor becomes unavailable.
-This also supports multiple contributors collaborating on larger or complex issues.
+- This also supports multiple contributors collaborating on larger or complex issues.
 
 ### I have not contributed to any open source project before. Will I get any guidance?
 
